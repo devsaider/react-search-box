@@ -5,6 +5,7 @@
   "license": "MIT",
   "author": "ghoshnirmalya",
   "repository": "ghoshnirmalya/react-search-box",
+  "type": "module",
   "main": "./dist/react-search-box.umd.js",
   "module": "./dist/react-search-box.es.js",
   "files": [
